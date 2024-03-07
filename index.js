@@ -1,0 +1,1 @@
+console.log("cómprate un auto concha de tu madre");
